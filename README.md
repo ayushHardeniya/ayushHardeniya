@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayush Hardeniya 👋</h1>
 <h2 align="center">a.k.a Ayush Sharma</h2><br>
 <p align="center">
-  🌱 Learner | 💻 C Programmer | 🎥 Editor | 🧘 Yoga Enthusiast  
+  🌱 Learner | 💻 Creator | 🎥 Editor |   ᝰ.ᐟ Writer
 </p>
 
  🔗 **Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
