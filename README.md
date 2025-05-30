@@ -4,7 +4,7 @@
   🌱 Learner | 💻 C Programmer | 🎥 Editor | 🧘 Yoga Enthusiast  
 </p>
 
-<center> 🔗 **Website**- [ayushHardeniya.site](https://ayushhardeniya.site) 
+ 🔗 **Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 
 ---
 
@@ -62,7 +62,7 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 - 🔗 **Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 - 📫 **Mail**: [connect@ayushHardeniya.site](mailto:connect@ayushhardeniya.site)
 - 💼 **LinkedIn**: [linkedin.com/in/ayushHardeniya](https://linkedin.com/in/ayushhardeniya)
--  𝕏 **X** : [x.com/ayushHardeniya](https://x.com/ayushhardeniya)
+- 📢 **X**: [x.com/ayushHardeniya](https://x.com/ayushhardeniya)
 - 🎥 **YouTube**: (Coming soon)
 
 ---
@@ -75,5 +75,5 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 ---
 
 Thanks for stopping by! 👋  
-Feel free to check out my pinned projects and connect if you think we can collaborate.
+Feel free to check out my pinned projects/repo and connect if you think we can collaborate.
 
