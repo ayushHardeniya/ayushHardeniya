@@ -4,7 +4,7 @@
   🌱 Learner | 💻 C Programmer | 🎥 Editor | 🧘 Yoga Enthusiast  
 </p>
 
-<p align="center"> 🔗 **Website**: [ayushHardeniya.site](https://ayushhardeniya.site) </p>
+<center> 🔗 **Website**- [ayushHardeniya.site](https://ayushhardeniya.site) 
 
 ---
 
@@ -19,7 +19,7 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 ### 🚀 What I’m Currently Working On
 - Creating a **personal website** at [ayushhardeniya.site](https://ayushhardeniya.site) to showcase my projects and thoughts
-- Building micro-projects in **C** and pushing my fundamentals to the next level
+- Building logics in **C++** and pushing my fundamentals to the next level
 - Planning to contribute to **open source** in areas like documentation, bug fixes, and learning new tools
 - Learning **Git** and **GitHub** to manage all my projects like a pro
 
