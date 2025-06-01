@@ -5,7 +5,8 @@
   🌱 Learner | 💻 Creator | 🎥 Editor |   ᝰ.ᐟ Writer
 </p>
 
-[![❤️️Sponsor Me](https://img.shields.io/badge/❤️Sponsor Me)](https://ayushhardeniya.github.io/aHPay/)
+[![❤️ Sponsor Me](https://img.shields.io/badge/❤️%20Sponsor%20Me-blueviolet?style=for-the-badge)](https://ayushhardeniya.github.io/aHPay/)
+
  🔗 **Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 
 ---
