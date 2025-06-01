@@ -7,6 +7,8 @@
 
 [![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-red?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)
 
+[![❤️ Sponsor Me](https://img.shields.io/badge/❤️%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)
+
 
  🔗 **Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 
