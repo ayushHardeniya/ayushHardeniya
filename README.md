@@ -25,7 +25,7 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 ---
 
-### 🧠 What I'm Learning
+### 🧠 What I'm Learning/Exploring
 - C++ programming at an in-depth level.
 - Frontend technologies like **HTML, CSS, JavaScript followed by MERN Stack**
 - Video Editing Tools like DavinCi Resolve 19.
