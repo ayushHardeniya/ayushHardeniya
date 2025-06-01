@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Ayush Hardeniya 👋</h1>
 <h2 align="center">a.k.a Ayush Sharma</h2><br>
 
-[![❤️️Sponsor Me](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge)](https://ayushhardeniya.github.io/aHPay/)
-
 <p align="center">
   🌱 Learner | 💻 Creator | 🎥 Editor |   ᝰ.ᐟ Writer
 </p>
 
+[![❤️️Sponsor Me](https://img.shields.io/badge/❤️Sponsor Me)](https://ayushhardeniya.github.io/aHPay/)
  🔗 **Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 
 ---
