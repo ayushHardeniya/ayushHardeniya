@@ -94,8 +94,15 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 Thanks for stopping by! 👋  
 Feel free to check out my pinned projects/repo and connect if you think we can collaborate.
-
-<div class="framer-cwmbxa" data-framer-name="Gradient Bottom" style="background:linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgb(0, 0, 0) 100%)"></div>
+<div class="framer-awipp0-container">
+                        <div class="ssr-variant hidden-1hn01op hidden-1dp0tct">
+                            <section class="framer-PvJDu framer-PAyzM framer-CjDlz framer-djecsc framer-v-djecsc" data-framer-name="L" style="background-color:var(--token-8e9f7de0-9fd7-44d3-bc3e-2dea20c4e4bd, rgb(0, 0, 0));max-width:100%;width:100%">
+                                <div class="framer-8hfyd" data-framer-name="Light Rays">
+                                    <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0" data-framer-background-image-wrapper="true">
+                                        <img decoding="async" width="2398" height="1994" sizes="(min-width: 1200px) min(100vw, 1480px), (min-width: 810px) and (max-width: 1199px) min(100vw, 1480px), (max-width: 809px) min(100vw, 1480px)" srcset="https://framerusercontent.com/images/4nxs3cQCu2fciNoTSCwd3e9ahw.png?scale-down-to=512 512w,https://framerusercontent.com/images/4nxs3cQCu2fciNoTSCwd3e9ahw.png?scale-down-to=1024 1024w,https://framerusercontent.com/images/4nxs3cQCu2fciNoTSCwd3e9ahw.png?scale-down-to=2048 2048w,https://framerusercontent.com/images/4nxs3cQCu2fciNoTSCwd3e9ahw.png 2398w" src="https://framerusercontent.com/images/4nxs3cQCu2fciNoTSCwd3e9ahw.png?scale-down-to=2048" alt="Rays" style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover" data-framer-original-sizes="min(100vw, 1480px)">
+                                    </div>
+                                </div>
+                                <div class="framer-cwmbxa" data-framer-name="Gradient Bottom" style="background:linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgb(0, 0, 0) 100%)"></div>
                                 <div class="framer-oeqriy" data-framer-name="Line" style="background:linear-gradient(90.00000000000075deg, var(--token-73242b55-57d1-4320-8897-28085a430c83, rgba(255, 255, 255, 0.02)) 0%, var(--token-d86f1591-0c16-44cd-be10-19334dfa9293, rgba(255, 255, 255, 0.1)) 50%, var(--token-73242b55-57d1-4320-8897-28085a430c83, rgba(255, 255, 255, 0.02)) 100%)"></div>
                                 <div class="framer-1wkuhhr" data-framer-name="Container">
                                     <div class="framer-1sgtg0e" data-framer-name="Top">
@@ -390,6 +397,8 @@ Feel free to check out my pinned projects/repo and connect if you think we can c
                                         </div>
                                     </div>
                                 </div>
-
+                                <div class="framer-1k2z7pz" data-framer-name="Line" style="background:linear-gradient(90.00000000000075deg, var(--token-73242b55-57d1-4320-8897-28085a430c83, rgba(255, 255, 255, 0.02)) 0%, var(--token-d86f1591-0c16-44cd-be10-19334dfa9293, rgba(255, 255, 255, 0.1)) 50%, var(--token-73242b55-57d1-4320-8897-28085a430c83, rgba(255, 255, 255, 0.02)) 100%)"></div>
+                            </section>                      </div>
+                                    
   </body>
 </html>
