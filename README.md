@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-<img src="PortraitaH.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
+<img src="/assets/PortraitaH.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
 I'm **Ayush Hardeniya**, a tech-driven individual who enjoys coding, designing systems, and building digital content with an artistic touch.  
 Currently pursuing my graduation, I'm exploring **tech stacks**, **web hosting**, **designing**, and **video editing workflows**.
@@ -75,7 +75,7 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 ### 🌐 Let's Connect
 
-<img src="illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
+<img src="/assets/illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
 - 🔗 **Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 - 📫 **Mail**: [connect@ayushHardeniya.site](mailto:connect@ayushhardeniya.site)
