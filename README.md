@@ -13,6 +13,13 @@
 [![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)  Or Just   <a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:35px;" />
 </a>
+
+<a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a>
 <!--[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)-->
 
 
