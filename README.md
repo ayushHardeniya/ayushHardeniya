@@ -96,12 +96,15 @@ Thanks for stopping by! 👋
 Feel free to check out my pinned projects/repo and connect if you think we can collaborate.
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@ayushHardeniya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayushHardeniya)
-[![My Website](https://img.shields.io/badge/My%20Website-www.ayushHardeniya.site-black?style=flat-square&logo=google-chrome)](https://www.ayushHardeniya.site)
-[![X/Twitter](https://img.shields.io/badge/X%20/%20Twitter-@ayushHardeniya-black?style=flat-square&logo=twitter)](https://twitter.com/ayushHardeniya)
-[![GitHub](https://img.shields.io/badge/GitHub-@ayushHardeniya-black?style=flat-square&logo=github)](https://github.com/ayushHardeniya)
-[![Medium](https://img.shields.io/badge/Medium-@ayushHardeniya-black?style=flat-square&logo=medium)](https://medium.com/@ayushHardeniya)
-[![Hashnode](https://img.shields.io/badge/Hashnode-@ayushHardeniya-blue?style=flat-square&logo=hashnode)](https://hashnode.com/@ayushHardeniya)
 
-  </body>
+| Platform | Link |
+|----------|------|
+| ![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png) **LinkedIn** | [Ayush Hardeniya](https://www.linkedin.com/in/ayushHardeniya) |
+| ![Website](https://img.icons8.com/color/30/000000/domain.png) **Website** | [www.ayushHardeniya.site](https://www.ayushHardeniya.site) |
+| ![Twitter](https://img.icons8.com/color/30/000000/twitter.png) **X/Twitter** | [@ayushHardeniya](https://twitter.com/ayushHardeniya) |
+| ![GitHub](https://img.icons8.com/glyph-neue/30/ffffff/github.png) **GitHub** | [@ayushHardeniya](https://github.com/ayushHardeniya) |
+| ![Medium](https://img.icons8.com/color/30/000000/medium.png) **Medium** | [@ayushHardeniya](https://medium.com/@ayushHardeniya) |
+| ![Hashnode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/000000/external-hashnode-blogging-platform-logo-color-tal-revivo.png) **Hashnode** | [@ayushHardeniya](https://hashnode.com/@ayushHardeniya) |
+
+
 </html>
