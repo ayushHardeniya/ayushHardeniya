@@ -11,14 +11,8 @@
 </p>
 
 [![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)     <a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; background:#FFD700; padding:0.3em 0.6em; border-radius:6px; font-weight:bold; color:#000; font-family:sans-serif;">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:26px; margin-right:8px;" /></a>
-<!--[![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/ayushhardeniya)-->
-<a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; background:#FFD700; padding:0.3em 0.6em; border-radius:6px; font-weight:bold; color:#000; font-family:sans-serif;">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:20px; margin-right:8px;" />
-</a>
-
-
-
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:30px; margin-right:8px;" /></a>
+  
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
 
