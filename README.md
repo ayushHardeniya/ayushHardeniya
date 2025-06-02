@@ -13,10 +13,20 @@
 
 ### 👨‍💻 About Me
 
+<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 250px;">
 I'm **Ayush Hardeniya**, a tech-driven individual who enjoys coding, designing systems, and building digital content with an artistic touch.  
 Currently pursuing my graduation, I'm exploring **tech stacks**, **web hosting**, **designing** and **video editing workflows**.
 
 Beyond the screen, I'm also consistent with **music and meditation**, and I believe in waking up early to build both **mental clarity and productivity** (yes, I wake up before sunrise daily😎!).
+</div>
+
+<div style="flex: 1; min-width: 250px; text-align: center;">
+  <img src="illustration.png" alt="Illustration" style="max-width: 100%; height: auto; border-radius: 10px;" />
+</div>
+
+</div>
 
 ---
 
