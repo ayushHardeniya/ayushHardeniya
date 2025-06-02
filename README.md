@@ -70,10 +70,12 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&theme=radical" alt="GitHub Streak" />
 </p>
-<img src="illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
+
 ---
 
 ### 🌐 Let's Connect
+
+<img src="illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
 - 🔗 **Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 - 📫 **Mail**: [connect@ayushHardeniya.site](mailto:connect@ayushhardeniya.site)
