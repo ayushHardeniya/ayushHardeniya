@@ -96,15 +96,11 @@ Thanks for stopping by! 👋
 Feel free to check out my pinned projects/repo and connect if you think we can collaborate.
 ## Connect with me
 
-
-| Platform | Link |
-|----------|------|
-| ![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png) **LinkedIn** | [Ayush Hardeniya](https://www.linkedin.com/in/ayushHardeniya) |
-| ![Website](https://img.icons8.com/color/30/000000/domain.png) **Website** | [www.ayushHardeniya.site](https://www.ayushHardeniya.site) |
-| ![Twitter](https://img.icons8.com/color/30/000000/twitter.png) **X/Twitter** | [@ayushHardeniya](https://twitter.com/ayushHardeniya) |
-| ![GitHub](https://img.icons8.com/glyph-neue/30/ffffff/github.png) **GitHub** | [@ayushHardeniya](https://github.com/ayushHardeniya) |
-| ![Medium](https://img.icons8.com/color/30/000000/medium.png) **Medium** | [@ayushHardeniya](https://medium.com/@ayushHardeniya) |
-| ![Hashnode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/000000/external-hashnode-blogging-platform-logo-color-tal-revivo.png) **Hashnode** | [@ayushHardeniya](https://hashnode.com/@ayushHardeniya) |
-
+[![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/ayushHardeniya)
+[![Website](https://img.icons8.com/color/50/000000/domain.png)](https://www.ayushHardeniya.site)
+[![Twitter/X](https://img.icons8.com/color/50/000000/twitter.png)](https://twitter.com/ayushHardeniya)
+[![GitHub](https://img.icons8.com/glyph-neue/50/ffffff/github.png)](https://github.com/ayushHardeniya)
+[![Medium](https://img.icons8.com/color/50/000000/medium.png)](https://medium.com/@ayushHardeniya)
+[![Hashnode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-hashnode-blogging-platform-logo-color-tal-revivo.png)](https://hashnode.com/@ayushHardeniya)
 
 </html>
