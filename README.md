@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-<img src="PortraitaH.jpg" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
+<img src="PortraitaH.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
 I'm **Ayush Hardeniya**, a tech-driven individual who enjoys coding, designing systems, and building digital content with an artistic touch.  
 Currently pursuing my graduation, I'm exploring **tech stacks**, **web hosting**, **designing**, and **video editing workflows**.
