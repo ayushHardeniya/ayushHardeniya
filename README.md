@@ -52,8 +52,6 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 ### 🛠️ Tech Stack
 
-<img src="illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
-
 | Language / Tools    | Skills |
 |---------------------|--------|
 | `C`                 | Basic Problem Solving & Logic building |
@@ -67,6 +65,7 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 ### 📈 GitHub Stats
 
+<img src="illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
