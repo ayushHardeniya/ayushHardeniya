@@ -97,5 +97,14 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 Thanks for stopping by! 👋  
 Feel free to check out my pinned projects/repo and connect if you think we can collaborate.
 
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushhardeniya&show_icons=true&locale=en&layout=compact" alt="ayushhardeniya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&locale=en" alt="ayushhardeniya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&" alt="ayushhardeniya" /></p>
+
+
   </body>
 </html>
