@@ -6,15 +6,7 @@
 </p>
 
 [![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)
-<a href="https://ko-fi.com/ayushhardeniya" target="_blank">
-  <img 
-    src="https://storage.ko-fi.com/cdn/kofi_button.png" 
-    alt="Buy Me a Coffee" 
-    style="background-color: #FFD700; border-radius: 8px; padding: 6px 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);" 
-    width="200"
-  />
-</a>
-
+[![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi_button.png)](https://ko-fi.com/ayushhardeniya)
 
  🔗 **Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 
