@@ -12,13 +12,13 @@
 ---
 
 ### 👨‍💻 About Me
-👨🏻‍💻 **About Me**  
 <img src="illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
 I'm **Ayush Hardeniya**, a tech-driven individual who enjoys coding, designing systems, and building digital content with an artistic touch.  
 Currently pursuing my graduation, I'm exploring **tech stacks**, **web hosting**, **designing**, and **video editing workflows**.
 
 Beyond the screen, I'm also consistent with **music and meditation**, and I believe in waking up early to build both **mental clarity and productivity** (yes, I wake up before sunrise daily😎!).
+
 
 ---
 
