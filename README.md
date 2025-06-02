@@ -13,13 +13,19 @@
 
 ### 👨‍💻 About Me
 
-<div style="overflow: hidden;">
-  <img src="illustration.png" alt="Illustration" style="float: right; width: 250px; margin-left: 1.5rem; margin-bottom: 1rem; border-radius: 10px;" />
-  
-  I'm **Ayush Hardeniya**, a tech-driven individual who enjoys coding, designing systems, and building digital content with an artistic touch.  
-  Currently pursuing my graduation, I'm exploring **tech stacks**, **web hosting**, **designing** and **video editing workflows**.
+<div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
 
-  Beyond the screen, I'm also consistent with **music and meditation**, and I believe in waking up early to build both **mental clarity and productivity** (yes, I wake up before sunrise daily😎!).
+  <div style="flex: 1; min-width: 250px;">
+    I'm **Ayush Hardeniya**, a tech-driven individual who enjoys coding, designing systems, and building digital content with an artistic touch.  
+    Currently pursuing my graduation, I'm exploring **tech stacks**, **web hosting**, **designing** and **video editing workflows**.
+
+    Beyond the screen, I'm also consistent with **music and meditation**, and I believe in waking up early to build both **mental clarity and productivity** (yes, I wake up before sunrise daily😎!).
+  </div>
+
+  <div style="flex-shrink: 0;">
+    <img src="illustration.png" alt="Illustration" style="width: 250px; border-radius: 10px;" />
+  </div>
+
 </div>
 
 ---
