@@ -80,7 +80,7 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 - 📢 **X**: [x.com/ayushHardeniya](https://x.com/ayushhardeniya)
 - 🎥 **YouTube**: (Coming soon)
 
-If you liked my profile then try to <a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
+<a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:65px;" />
 </a>
 
