@@ -9,8 +9,8 @@
 <p align="center">
   🌱 Learner | 💻 Creator | 🎥 Editor |   ᝰ.ᐟ Writer
 </p>
-
-[![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)  Or Just   <a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
+<!--
+[![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/) --><a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:35px;" />
 </a>
 
