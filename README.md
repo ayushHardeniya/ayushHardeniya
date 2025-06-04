@@ -54,12 +54,11 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 | Language / Tools    | Skills |
 |---------------------|--------|
-| `C`                 | Basic Problem Solving & Logic building |
+| `C & C++`           | Basic Problem Solving & Logic building |
 | `HTML + CSS`        | Static pages, layouts |
 | `VS Code`           | Main code editor |
 | `Git & GitHub`      | Version control, collaboration |
 | `Canva`             | Design and editing |
-| `Yoga` (yes, really)| Mindfulness & discipline|
 
 ---
 
