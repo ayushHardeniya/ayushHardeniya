@@ -15,8 +15,6 @@
 </a>
 
 <!--[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)-->
-
-
  🔗 **Visit My Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 
 ---
@@ -81,6 +79,10 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 - 💼 **LinkedIn**: [linkedin.com/in/ayushHardeniya](https://linkedin.com/in/ayushhardeniya)
 - 📢 **X**: [x.com/ayushHardeniya](https://x.com/ayushhardeniya)
 - 🎥 **YouTube**: (Coming soon)
+
+If you liked my profile then try to <a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:65px;" />
+</a>
 
 ---
 
