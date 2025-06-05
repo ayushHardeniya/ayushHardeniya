@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title> Ayush Hardeniya's GitHub</title>
   </head>
     <body>
     
