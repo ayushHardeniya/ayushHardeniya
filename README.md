@@ -82,6 +82,8 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:65px;" />
 </a>
 
+<hr>
+
 [![❤️ Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-F16061?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
 
 ---
