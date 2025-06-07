@@ -84,6 +84,16 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 <hr>
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('ayushhardeniya', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Buy Me A Coffee',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 [![❤️ Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-F16061?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
 
 ---
