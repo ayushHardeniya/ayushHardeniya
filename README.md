@@ -54,7 +54,8 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 | `HTML + CSS`        | Static pages, layouts |
 | `VS Code`           | Main code editor |
 | `Git & GitHub`      | Version control, collaboration |
-| `Canva`             | Design and editing |
+| `Canva`             | Design and Editing |
+| `DaVinci Resolve 19`| Video Editing |
 
 ---
 
