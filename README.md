@@ -62,11 +62,11 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" aign="left"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p> <br>
 
 ---
@@ -75,9 +75,9 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 <img src="/assets/illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
-| Language / Tools    | Skills |
+| Click   |
 |---------------------|--------|
-| - 🔗 **Website**    | [ayushHardeniya.site](https://ayushhardeniya.site) |
+| - 🔗 **Website**   | [ayushHardeniya.site](https://ayushhardeniya.site) |
 | - 📫 **Mail**     | [connect@ayushHardeniya.site](mailto:connect@ayushhardeniya.site) |
 | - 💼 **LinkedIn** | [linkedin.com/in/ayushHardeniya](https://linkedin.com/in/ayushhardeniya) |
 | - 📢 **X**        | [x.com/ayushHardeniya](https://x.com/ayushhardeniya) |
