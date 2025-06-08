@@ -88,17 +88,6 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 <hr>
 
-## 💰Fuel My Work
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushhardeniya)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
-  [![❤️ Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
-  [![💰 aHPay](https://img.shields.io/badge/aHPay-skyblue?style=for-the-badge)](https://ayushhardeniya.github.io/aHPay/)
-
-
-
-
-
-
 ---
 
 ### 🤝 How You Can Add Value & Learn With Me!
@@ -119,6 +108,14 @@ Let's grow together — one commit at a time. 🌱💻
 
 > *Consistency beats talent when talent doesn’t show up.*  
 > *Wake up early, stay humble, work on your craft silently.*
+
+---
+
+### 💰Fuel My Work
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushhardeniya)
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
+  [![❤️ Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
+  [![💰 aHPay](https://img.shields.io/badge/aHPay-skyblue?style=for-the-badge)](https://ayushhardeniya.github.io/aHPay/)
 
 ---
 
