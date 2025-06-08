@@ -67,9 +67,7 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&theme=radical" alt="GitHub Streak" align="left" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-
+</p> <br>
 
 ---
 
@@ -94,7 +92,8 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
   [![❤️ Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
   [![💰 aHPay](https://img.shields.io/badge/aHPay-skyblue?style=flat)](https://ayushhardeniya.github.io/aHPay/)
-  [![aHPay](https://img.shields.io/badge/Sponsor%20via%20aHPay-FF8C00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABQklEQVR42mNgGAWjgBD3H4Z/CIz/htwFg5jxPyRSLI9zAEP+M4iU6YCkiwWS8CIGDnY4eg/4nV8glKAMoPMk1DGg8v0JdNwDiAsIp6IAdh7ElDgyjewDtvR9IcxuF0+ItCWi7AhmHYS8RA9w54T+GbEA+xO4KkS1AvEvMDzAl4b/gjiK/F9BD0ZJcATSAfo9gDxF1zNgEyGPkaYNA6xmxA+xdIwPwbhK+IWQOeD5fNkDGoj/hdIMVCEY5A6iuH9jT0DDA1UEHTP3I3ENsJ4EAAAwCbcZnbPqNeMAAAAASUVORK5CYII=&label=&logoWidth=20)](https://ayushhardeniya.github.io/aHPay/)
+  [![aHPay](https://img.shields.io/badge/-aHPay-FF8C00?style=flat&labelColor=FF8C00&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABQklEQVR42mNgGAWjgBD3H4Z/CIz/htwFg5jxPyRSLI9zAEP+M4iU6YCkiwWS8CIGDnY4eg/4nV8glKAMoPMk1DGg8v0JdNwDiAsIp6IAdh7ElDgyjewDtvR9IcxuF0+ItCWi7AhmHYS8RA9w54T+GbEA+xO4KkS1AvEvMDzAl4b/gjiK/F9BD0ZJcATSAfo9gDxF1zNgEyGPkaYNA6xmxA+xdIwPwbhK+IWQOeD5fNkDGoj/hdIMVCEY5A6iuH9jT0DDA1UEHTP3I3ENsJ4EAAAwCbcZnbPqNeMAAAAASUVORK5CYII=)](https://ayushhardeniya.github.io/aHPay/)
+
 
 
 
