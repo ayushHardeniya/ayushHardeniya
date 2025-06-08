@@ -62,8 +62,8 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" aign="left"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" margin="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" aign="left"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="right" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&theme=radical" alt="GitHub Streak" />
 </p> <br>
@@ -93,7 +93,6 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
   [![❤️ Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
   [![💰 aHPay](https://img.shields.io/badge/aHPay-skyblue?style=for-the-badge)](https://ayushhardeniya.github.io/aHPay/)
-  [![aHPay](https://img.shields.io/badge/aHPay-grey?style=flat-square&logo=bolt&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)
 
 
 
