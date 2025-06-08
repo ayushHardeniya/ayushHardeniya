@@ -97,7 +97,7 @@ If you ever spot an issue on my website — be it a weird layout glitch, a tiny 
 🎯 **Don't just scroll past — contribute!**  
 Your input matters, and it's a great way to sharpen your open-source skills too.
 
-🛠️ [Click here to visit the website repo & start contributing! 🚀](https://github.com/ayushhardeniya/ayushhardeniya.github.io/edit/main/README.md)
+🛠️ [Click here to visit the website repo & start contributing! 🚀](https://github.com/ayushHardeniya/ayushhardeniya.github.io/tree/main)
 
 Let's grow together — one commit at a time. 🌱💻
 
