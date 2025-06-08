@@ -86,6 +86,7 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
   <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:65px;" />
 </a>
  <!-- <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:65px;" /> -->
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me A Coffee', '#000000', 'Q5Q81FSCNS');kofiwidget2.draw();</script> 
 
 ---
 
