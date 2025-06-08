@@ -113,5 +113,13 @@ Let's grow together — one commit at a time. 🌱💻
 Thanks for stopping by! 👋  
 Feel free to check out my pinned projects/repo and connect if you think we can collaborate.
 
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhardeniya&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhardeniya" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhardeniya" alt="ayushhardeniya" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ayushhardeniya" target="blank"><img src="https://img.shields.io/twitter/follow/ayushhardeniya?logo=twitter&style=for-the-badge" alt="ayushhardeniya" /></a> </p>
+
 </body>
 </html>
