@@ -114,8 +114,8 @@ Let's grow together — one commit at a time. 🌱💻
 ### 💰Fuel My Work
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushhardeniya)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
-  [![❤️ Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
-  [![💰 aHPay](https://img.shields.io/badge/aHPay-skyblue?style=for-the-badge)](https://ayushhardeniya.github.io/aHPay/)
+  [![❤️ GitHub](https://img.shields.io/badge/GitHub-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
+  [![💰 aHPay](https://img.shields.io/badge/aHPay-skyblue?style=for-the-badge&logo=upi&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)
 
 ---
 
