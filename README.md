@@ -88,10 +88,10 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 <hr>
 
 ## 💰Fuel My Work
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushhardeniya)   
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)   
-  [![❤️ Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-green?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)   
-  [![💰 aHPay](https://img.shields.io/badge/%F0%9F%92%B0%20Sponsor%20via%20aHPay-violet?style=for-the-badge)](https://ayushhardeniya.github.io/aHPay/)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushhardeniya)
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
+  [![❤️ Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
+  [![💰 aHPay](https://img.shields.io/badge/%F0%9F%92%B0%20aHPay-grey?style=for-the-badge)](https://ayushhardeniya.github.io/aHPay/)
 
 
 
