@@ -67,7 +67,6 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&theme=radical" alt="GitHub Streak" align="left" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="right"/>
 </p>
-[](https://github-trophies.vercel.app/?username=ayushhardeniya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
