@@ -91,8 +91,8 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushhardeniya)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
   [![❤️ Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
-  [![💰 aHPay](https://img.shields.io/badge/aHPay-skyblue?style=flat)](https://ayushhardeniya.github.io/aHPay/)
-  [![aHPay](https://img.shields.io/badge/aHPay-FF8C00?style=for-the-badge&logo=bolt&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)
+  [![💰 aHPay](https://img.shields.io/badge/aHPay-skyblue?style=for-the-badge)](https://ayushhardeniya.github.io/aHPay/)
+  [![aHPay](https://img.shields.io/badge/aHPay-FF8C00?style=flat-square&logo=bolt&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)
 
 
 
@@ -101,7 +101,7 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 
 ---
 
-## 🤝 How You Can Add Value & Learn With Me!
+### 🤝 How You Can Add Value & Learn With Me!
 
 Hey there, curious mind! 👀  
 If you ever spot an issue on my website — be it a weird layout glitch, a tiny design flaw, or just something that *feels off*...
