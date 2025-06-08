@@ -86,8 +86,6 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:65px;" />
 </a>
 
-<hr>
-
 ---
 
 ### 🤝 How You Can Add Value & Learn With Me!
