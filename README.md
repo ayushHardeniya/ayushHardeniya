@@ -8,8 +8,9 @@
 
 <p align="center">
   🌱 Learner | 💻 Creator | 🎥 Editor |   ᝰ.ᐟ Writer
-</p>
 <img src="assets/scrollingeffect.gif" alt="Scrolling animation" width="80" align="right"/>
+
+</p>
 <!--
 [![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/) -->
 
