@@ -6,8 +6,8 @@
 <h1 align="center">Hi, I'm <a href="https://ayushhardeniya.site/">Ayush Hardeniya</a> 👋</h1>
 <h2 align="center">a.k.a Ayush Sharma</h2><br>
 
-<p>
-  🌱 Learner | 💻 Creator | 🎥 Editor |   ᝰ.ᐟ Writer 
+<p> <center>
+  🌱 Learner | 💻 Creator | 🎥 Editor |   ᝰ.ᐟ Writer  </center>
 <img src="assets/scrollingeffect.gif" alt="Scrolling animation" width="80" align="right"/>
 
 </p>
