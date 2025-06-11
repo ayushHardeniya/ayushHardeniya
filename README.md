@@ -99,11 +99,12 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
       </td>
     </tr>
   </table>
+  
   <table>
     <tr>
       <td align="center">
         <a href="https://blog.ayushhardeniya.site">
-          <img src="assets/CodeNotes.png" alt="CodeNotes" height="75">
+          <img src="assets/CodeNotes.png" alt="CodeNotes" height="65">
         </a>
       </td>
       <td align="center">
@@ -114,7 +115,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     </tr>
   </table>
 </div>
-<br>
+<br><br>
 
 <a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
   <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:65px;" />
