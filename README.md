@@ -23,11 +23,8 @@
 
 <img src="/assets/PortraitaH.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
-I'm **Ayush Hardeniya**, a tech-driven individual who enjoys coding, designing systems, and building digital content with an artistic touch.  
-Currently pursuing my graduation, I'm exploring **tech stacks**, **web hosting**, **designing**, and **video editing workflows**.
-
-Beyond the screen, I'm also consistent with **music and meditation**, and I believe in waking up early to build both **mental clarity and productivity** (yes, I wake up before sunrise daily😎!).
-
+I'm **Ayush Hardeniya**, Hey, I'm **Ayush Hardeniya** — someone who enjoys solving problems through code, **designing systems**, and giving a **creative** touch to whatever I build.  
+I'm currently **learning web development, hosting,** and **video editing,** while also staying grounded through music, meditation, and early mornings 🌄.
 
 ---
 
@@ -40,12 +37,11 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 ---
 
 ### 🧠 What I'm Learning/Exploring
-- C++ programming at an in-depth level.
-- Frontend technologies like **HTML, CSS, JavaScript followed by MERN Stack**
-- Video Editing Tools like DavinCi Resolve 19.
-- Git version control and command-line workflows
-- How to build a consistent personal brand online
-
+- Full-stack web dev (HTML, CSS, JS → MERN)
+- Video editing using DaVinci Resolve 19
+- Git Command-line + version control workflows
+- Building a consistent personal brand
+  
 ---
 
 ### 🛠️ Tech Stack
