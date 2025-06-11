@@ -70,7 +70,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 ---
 
-### 🌐 Find Me Online
+### 🌐 Where I Share & Create
 
 <img src="/assets/illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
