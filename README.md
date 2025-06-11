@@ -61,32 +61,32 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     <tr>
       <td align="center">
         <a href="https://linkedin.com/in/ayushhardeniya">
-          <img src="assets/linkedin.png" alt="LinkedIn" height="30">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/ayushhardeniya">
-          <img src="assets/twitter-x.png" alt="Twitter" height="30">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://ayushhardeniya.site">
-          <img src="assets/aH-logo.png" alt="Website" height="30">
+          <img src="assets/linkedin.png" alt="LinkedIn" height="45">
         </a>
       </td>
       <td align="center">
         <a href="https://medium.com/@ayushhardeniya">
-          <img src="assets/medium.png" alt="Medium" height="30">
+          <img src="assets/medium.png" alt="Medium" height="45">
         </a>
       </td>
       <td align="center">
-        <a href="https://your-codenotes-link.com">
-          <img src="assets/CodeNotes.png" alt="CodeNotes" height="30">
+        <a href="https://twitter.com/ayushhardeniya">
+          <img src="assets/twitter-x.png" alt="Twitter" height="45">
         </a>
       </td>
       <td align="center">
-        <a href="mailto:ayush@example.com">
-          <img src="assets/mail.png" alt="Email" height="30">
+        <a href="https://ayushhardeniya.site">
+          <img src="assets/aH-logo.png" alt="Website" height="45">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://blog.ayushhardeniya.site">
+          <img src="assets/CodeNotes.png" alt="CodeNotes" height="45">
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:connect@ayushhardeniya.site">
+          <img src="assets/gmail.png" alt="Email" height="45">
         </a>
       </td>
     </tr>
