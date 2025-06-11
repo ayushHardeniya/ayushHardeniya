@@ -76,60 +76,14 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 | Click               |        |
 |---------------------|--------|
-| - 🔗 **Website**   | [ayushHardeniya.site](https://ayushhardeniya.site) |
+| - <a href="https://linkedin.com/in/ayushhardeniya">
+          <img src="assets/linkedin.png" alt="LinkedIn" height="65">
+        </a>   | [ayushHardeniya.site](https://ayushhardeniya.site) |
 | - 📫 **Mail**     | [connect@ayushHardeniya.site](mailto:connect@ayushhardeniya.site) |
 | - 💼 **LinkedIn** | [linkedin.com/in/ayushHardeniya](https://linkedin.com/in/ayushhardeniya) |
 | - 📢 **X**        | [x.com/ayushHardeniya](https://x.com/ayushhardeniya) |
 | - 🎥 **YouTube**  | (Coming soon) |
 
-<div align="center">
-  <!-- Main Row -->
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <a href="https://linkedin.com/in/ayushhardeniya">
-          <img src="assets/linkedin.png" alt="LinkedIn" height="45">
-          <br><sub><b>LinkedIn</b></sub>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://ayushhardeniya.site">
-          <img src="assets/aH-logo.png" alt="Website" height="50">
-          <br><sub><b>Portfolio</b></sub>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://twitter.com/ayushhardeniya">
-          <img src="assets/twitter1.png" alt="Twitter" height="45">
-          <br><sub><b>Twitter</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-  <!-- Second Row -->
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <a href="https://medium.com/@ayushhardeniya">
-          <img src="assets/medium.png" alt="Medium" height="40">
-          <br><sub><b>Medium</b></sub>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://your-codenotes-link.com">
-          <img src="assets/CodeNotes.png" alt="CodeNotes" height="35">
-          <br><sub><b>CodeNotes</b></sub>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="mailto:ayush@example.com">
-          <img src="assets/gmail.png" alt="Email" height="40">
-          <br><sub><b>Email</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <table>
