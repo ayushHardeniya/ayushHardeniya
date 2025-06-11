@@ -95,7 +95,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
       </td>
       <td align="center">
         <a href="https://medium.com/@ayushhardeniya">
-          <img src="assets/medium.png" alt="Medium" height="75">
+          <img src="assets/medium-M.png" alt="Medium" height="75">
         </a>
       </td>
     </tr>
