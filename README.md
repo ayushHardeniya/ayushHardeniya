@@ -61,27 +61,27 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     <tr>
       <td align="center">
         <a href="https://linkedin.com/in/ayushhardeniya">
-          <img src="assets/linkedin.png" alt="LinkedIn" height="45">
+          <img src="assets/linkedin.png" alt="LinkedIn" height="65">
         </a>
       </td>
       <td align="center">
         <a href="https://medium.com/@ayushhardeniya">
-          <img src="assets/medium.png" alt="Medium" height="45">
+          <img src="assets/medium.png" alt="Medium" height="65">
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/ayushhardeniya">
-          <img src="assets/twitter-x.png" alt="Twitter" height="45">
+          <img src="assets/twitter1.png" alt="Twitter" height="65">
         </a>
       </td>
       <td align="center">
         <a href="https://ayushhardeniya.site">
-          <img src="assets/aH-logo.png" alt="Website" height="45">
+          <img src="assets/aH-logo.png" alt="Website" height="65">
         </a>
       </td>
       <td align="center">
         <a href="https://blog.ayushhardeniya.site">
-          <img src="assets/CodeNotes.png" alt="CodeNotes" height="45">
+          <img src="assets/CodeNotes.png" alt="CodeNotes" height="65">
         </a>
       </td>
       <td align="center">
