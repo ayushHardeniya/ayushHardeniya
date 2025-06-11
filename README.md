@@ -97,7 +97,10 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
           <img src="assets/medium.png" alt="Medium" height="75">
         </a>
       </td>
-      <br>
+    </tr>
+  </table>
+  <table>
+    <tr>
       <td align="center">
         <a href="https://blog.ayushhardeniya.site">
           <img src="assets/CodeNotes.png" alt="CodeNotes" height="75">
