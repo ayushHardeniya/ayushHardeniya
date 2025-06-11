@@ -74,48 +74,39 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 <img src="/assets/illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
-| Click               |        |
-|---------------------|--------|
-| - <a href="https://linkedin.com/in/ayushhardeniya">
-          <img src="assets/linkedin.png" alt="LinkedIn" height="65">
-        </a>   | [ayushHardeniya.site](https://ayushhardeniya.site) |
-| - 📫 **Mail**     | [connect@ayushHardeniya.site](mailto:connect@ayushhardeniya.site) |
-| - 💼 **LinkedIn** | [linkedin.com/in/ayushHardeniya](https://linkedin.com/in/ayushhardeniya) |
-| - 📢 **X**        | [x.com/ayushHardeniya](https://x.com/ayushhardeniya) |
-| - 🎥 **YouTube**  | (Coming soon) |
-
-
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://linkedin.com/in/ayushhardeniya">
-          <img src="assets/linkedin.png" alt="LinkedIn" height="65">
+          <img src="assets/linkedin.png" alt="LinkedIn" height="75">
         </a>
       </td>
       <td align="center">
         <a href="https://ayushhardeniya.site">
-          <img src="assets/aH-logo.png" alt="Website" height="65">
+          <img src="assets/aH-logo.png" alt="Website" height="75">
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/ayushhardeniya">
-          <img src="assets/twitter1.png" alt="Twitter" height="65">
+          <img src="assets/twitter1.png" alt="Twitter" height="75">
         </a>
       </td>
       <td align="center">
         <a href="https://medium.com/@ayushhardeniya">
-          <img src="assets/medium.png" alt="Medium" height="65">
+          <img src="assets/medium.png" alt="Medium" height="75">
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://blog.ayushhardeniya.site">
-          <img src="assets/CodeNotes.png" alt="CodeNotes" height="65">
+          <img src="assets/CodeNotes.png" alt="CodeNotes" height="75">
         </a>
       </td>
       <td align="center">
         <a href="mailto:connect@ayushhardeniya.site">
-          <img src="assets/gmail.png" alt="Email" height="45">
+          <img src="assets/gmail.png" alt="Email" height="75">
         </a>
       </td>
     </tr>
