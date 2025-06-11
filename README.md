@@ -32,11 +32,11 @@ Beyond the screen, I'm also consistent with **music and meditation**, and I beli
 ---
 
 ### 🚀 What I’m Currently Working On
-- Creating a **personal website** at [ayushhardeniya.site](https://ayushhardeniya.site) to showcase my projects and thoughts
-- Building logics in **C++** and pushing my fundamentals to the next level
-- Planning to contribute to **open source** in areas like documentation, bug fixes, and learning new tools
-- Learning **Git** and **GitHub** to manage all my projects like a pro
-
+- My personal website: [ayushhardeniya.site](https://ayushhardeniya.site)
+- Sharpening my C++ fundamentals
+- Learning Git & GitHub for better project management
+- Preparing for open source contributions 🚀
+  
 ---
 
 ### 🧠 What I'm Learning/Exploring
