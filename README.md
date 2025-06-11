@@ -5,7 +5,7 @@
 
 <img src="assets/ReadmeBanner.gif" align="center" />
     
-<h1 align="center">Hi, I'm <a href="https://ayushhardeniya.site/">Ayush Hardeniya</a> 👋</h1>
+<!-- <h1 align="center">Hi, I'm <a href="https://ayushhardeniya.site/">Ayush Hardeniya</a> 👋</h1> -->
 <h2 align="center">a.k.a Ayush Sharma</h2><br>
 
 <p align="center">
