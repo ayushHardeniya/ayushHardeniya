@@ -63,7 +63,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 <table>
   <tr>  
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" aign="left"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
