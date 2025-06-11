@@ -155,7 +155,7 @@ Let's grow together - one commit at a time. 🌱💻
 
 ---
 
-<img src="assets/signwhitetrans1.png" align="right" alt="signature" />
+<img src="assets/signwhitetrans1.png" align="right" alt="signature" height="90" />
 Thanks for stopping by! 👋  
 Feel free to check out my pinned projects/repo and connect if you think we can collaborate.
   
