@@ -60,13 +60,19 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" aign="left"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&theme=radical" alt="GitHub Streak" />
-</p> <br>
+<table>
+  <tr>  
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" aign="left"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
