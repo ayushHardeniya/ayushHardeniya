@@ -74,6 +74,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 <img src="/assets/illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
+<br>
 <div align="center">
   <table>
     <tr>
@@ -118,7 +119,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 <br><br>
 
 <a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
-  <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:65px;" />
+  <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:65px;" align="center"/>
 </a>
  <!-- <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:65px;" /> -->
  
