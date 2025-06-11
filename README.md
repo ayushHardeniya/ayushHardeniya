@@ -3,8 +3,14 @@
   </head>
     <body>
 
-<img src="assets/ReadmeBanner.gif" align="center" />
-    
+  <picture>
+    <source srcset="assets/ReadmeBanner-dark.gif" media="(prefers-color-scheme: dark)">
+    <source srcset="assets/ReadmeBanner-bright.gif" media="(prefers-color-scheme: light)">
+    <img src="assets/ReadmeBanner.gif" alt="Ayush Hardeniya Banner" style="width:100%; border-radius:10px;" />
+  </picture>
+
+<!--<img src="assets/ReadmeBanner.gif" align="center" />
+
 <!-- <h1 align="center">Hi, I'm <a href="https://ayushhardeniya.site/">Ayush Hardeniya</a> 👋</h1> -->
 <h2 align="center">a.k.a Ayush Sharma</h2><br>
 
