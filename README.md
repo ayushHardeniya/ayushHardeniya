@@ -147,10 +147,10 @@ Let's grow together - one commit at a time. 🌱💻
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
   [![aHPay](https://img.shields.io/badge/aHPay-blue?style=for-the-badge&logo=googlepay&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)
 
-## Or Just
+### Or Just
 
 <a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
-  <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:65px;"/>
+  <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:65px;" align="center"/>
 </a>
 
 ---
