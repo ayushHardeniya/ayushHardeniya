@@ -23,7 +23,7 @@
 
 <img src="/assets/PortraitaH.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
-I'm **Ayush Hardeniya**, Hey, I'm **Ayush Hardeniya** — someone who enjoys solving problems through code, **designing systems**, and giving a **creative** touch to whatever I build. 
+I'm **Ayush Hardeniya** (a.k.a Ayush Sharma) — someone who enjoys solving problems through code, **designing systems**, and giving a **creative** touch to whatever I build. 
 
 I'm currently **learning web development, hosting,** and **video editing,** while also staying grounded through music, meditation, and early mornings 🌄.
 
