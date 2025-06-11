@@ -116,11 +116,6 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     </tr>
   </table>
 </div>
-<br><br>
-
-<a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
-  <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:65px;" align="center"/>
-</a>
  <!-- <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:65px;" /> -->
  
 ---
@@ -151,6 +146,12 @@ Let's grow together - one commit at a time. 🌱💻
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushhardeniya)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
   [![aHPay](https://img.shields.io/badge/aHPay-blue?style=for-the-badge&logo=googlepay&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)
+
+## Or Just
+
+<a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
+  <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:65px;"/>
+</a>
 
 ---
 
