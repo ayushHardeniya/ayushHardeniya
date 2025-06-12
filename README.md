@@ -142,7 +142,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 <table>
   <tr>
     <td align="center">
-      <img src="assets/aH-logo.png" alt="aH Logo" width="120" height="120">
+      <img src="assets/aH-logo.png" alt="aH Logo" width="70" height="70">
     </td>
     <td align="center">
       <a href="https://ayushhardeniya.site">
@@ -152,7 +152,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/aHPay-logo.png" alt="aHPay Logo" width="120" height="120">
+      <img src="assets/aHPay-logo-rd.png" alt="aHPay Logo" width="70" height="70">
     </td>
     <td align="center">
       <a href="https://ayushhardeniya.site/aHPay">
