@@ -137,6 +137,13 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
  
 ---
 
+### 🛠 Featured Projects
+
+- <img src="assets/aH-logo.png" /> [My Portfolio Website](https://github.com/ayushhardeniya/ayushhardeniya.site)  
+- [aHPay Portal](https://github.com/ayushhardeniya/aHPay)
+
+---
+
 ### 🤝 How You Can Add Value & Learn With Me!
 
 Hey there, curious mind! 👀  
