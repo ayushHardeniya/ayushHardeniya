@@ -139,7 +139,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 ### 🛠 Featured Projects
 
-- <img src="assets/aH-logo.png" /> [My Portfolio Website](https://github.com/ayushhardeniya/ayushhardeniya.site)  
+- <img src="assets/aH-logo.png" height="65"/> [My Portfolio Website](https://github.com/ayushhardeniya/ayushhardeniya.site)  
 - [aHPay Portal](https://github.com/ayushhardeniya/aHPay)
 
 ---
