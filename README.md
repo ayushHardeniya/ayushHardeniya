@@ -96,13 +96,13 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
   <table>
     <tr>
       <td align="center">
-        <a href="https://linkedin.com/in/ayushhardeniya">
-          <img src="assets/linkedin.png" alt="LinkedIn" height="75">
+        <a href="https://ayushhardeniya.site">
+          <img src="assets/aH-logo.png" alt="Website" height="75">
         </a>
       </td>
       <td align="center">
-        <a href="https://ayushhardeniya.site">
-          <img src="assets/aH-logo.png" alt="Website" height="75">
+        <a href="https://linkedin.com/in/ayushhardeniya">
+          <img src="assets/linkedin.png" alt="LinkedIn" height="75">
         </a>
       </td>
       <td align="center">
