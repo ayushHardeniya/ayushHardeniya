@@ -139,8 +139,28 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 ### 🛠 Featured Projects
 
-- <img src="assets/aH-logo.png" height="65"/> [My Portfolio Website](https://github.com/ayushhardeniya/ayushhardeniya.site)  
-- [aHPay Portal](https://github.com/ayushhardeniya/aHPay)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/aH-logo.png" alt="aH Logo" width="120" height="120">
+    </td>
+    <td align="center">
+      <a href="https://ayushhardeniya.site">
+        <img src="https://img.shields.io/badge/My%20Personal%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Personal Website" height="40">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/aHPay-logo.png" alt="aHPay Logo" width="120" height="120">
+    </td>
+    <td align="center">
+      <a href="https://ayushhardeniya.site/aHPay">
+        <img src="https://img.shields.io/badge/My%20Personal%20Payment%20Portal-00C851?style=for-the-badge&logo=stripe&logoColor=white" alt="My Personal Payment Portal" height="40">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
