@@ -38,7 +38,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 ---
 
 ### 🚀 What I’m On (Learning/Exploring)
-<table>
+<table align="left">
   <tr>
     <td align="center">
       <img src="assets/canva-logo.png" height="55" />
