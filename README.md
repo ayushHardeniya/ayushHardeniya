@@ -84,13 +84,14 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     </td> -->
   </tr>
   </table>
+  <center>
   <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushHardeniya&theme=radical" height="100"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushHardeniya&theme=radical" height="200"/>
     </td>
   </tr>
-</table>
+</table> </center>
 
 ---
 
