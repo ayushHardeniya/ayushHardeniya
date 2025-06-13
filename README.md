@@ -37,7 +37,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 ---
 
-### 🚀 What I’m On (Learning/Exploring)
+### 🚀 What I’m On (Working/Exploring)
 
 <table align="left">
   <tr>
