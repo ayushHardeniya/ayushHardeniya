@@ -84,7 +84,7 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
 
 ---
 
-### 🤝 Open Source Welcome
+### 🤝 **Open Source** Welcome
 
 Spotted something on my website that needs fixing?<br>
 Perfect chance to practice your **open source** skills!<br>
