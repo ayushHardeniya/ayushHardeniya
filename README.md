@@ -85,6 +85,8 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
   </tr>
 </table>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushHardeniya&theme=minimal)
+
 ---
 
 ### 🌐 Where I Share & Create
