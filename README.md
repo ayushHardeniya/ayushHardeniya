@@ -75,11 +75,11 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 | Language / Tools    | Skills |
 |---------------------|--------|
-| `C & C++`           | Basic Problem Solving & Logic building |
+| `C & C++`           | Logic building |
 | `HTML + CSS`        | Static pages, layouts |
 | `VS Code`           | Main code editor |
 | `Git & GitHub`      | Version control, collaboration |
-| `Canva`             | Design and Editing |
+| `Canva`             | Design & Editing |
 | `DaVinci Resolve 19`| Video Editing |
 
 ---
