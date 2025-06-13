@@ -38,20 +38,25 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 ---
 
 ### 🚀 What I’m On (Learning/Exploring)
+
 <table align="left">
   <tr>
     <td align="center">
       <img src="assets/exploring/canva-logo.png" height="55" />
     </td>
-  </tr>
-  <tr>
+    <td>  
+    </td>
     <td align="center">
       <img src="assets/exploring/github.png" height="55" />
     </td>
   </tr>
+  
   <tr>
+    <td>  </td>
     <td align="center">
       <img src="assets/exploring/git-cli.png" height="55" />
+    </td>
+    <td>  </td>
   </tr>
   <tr>
     <td align="center">
@@ -67,6 +72,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     </td>
   </tr>
 </table>
+<br>
 
 ---
 
