@@ -93,12 +93,12 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
 
 | Language / Tools    | Skills |
 |---------------------|--------|
-| `C & C++`           | Logic building |
-| `HTML + CSS`        | Static pages, layouts |
-| `VS Code`           | Main code editor |
-| `Git & GitHub`      | Version control, collaboration |
-| `Canva`             | Design & Editing |
-| `DaVinci Resolve 19`| Video Editing |
+| `C & C++`           | 🧠 Logic building |
+| `HTML + CSS`        | 🌐 Static pages, layouts |
+| `VS Code`           | 📝 Main code editor |
+| `Git & GitHub`      | 🔧 Version control, collaboration |
+| `Canva`             | 🎨 Design & Editing |
+| `DaVinci Resolve 19`| 🎞️ Video Editing |
 
 ---
 
