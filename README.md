@@ -41,7 +41,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 <table align="left">
   <tr>
     <td align="center">
-      <img src="assets/canva-logo.png" height="55" />
+      <img src="assets/exploring/canva-logo.png" height="55" />
     </td>
     <td align="center"> Canva </td>
   </tr>
@@ -51,7 +51,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 <table>
   <tr>
     <td align="center">
-      <img src="assets/github.png" height="55" />
+      <img src="assets/exploring/github.png" height="55" />
     </td>
     <td align="center"> GitHub </td>
   </tr>
@@ -59,31 +59,35 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 <table align="left">
   <tr>
     <td align="center">
-      <img src="assets/git-cli.png" height="55" />
+      <img src="assets/exploring/git-cli.png" height="55" />
     </td>
     <td align="center"> Git Command Line </td>
   </tr>
 </table>
+
+
 <table>
   <tr>
     <td align="center">
-      <img src="assets/html-5.png" height="55" />
+      <img src="assets/exploring/html-5.png" height="55" />
     </td>
     <td align="center"> HTML </td>
   </tr>
 </table>
-<table>
+<table align="left">
   <tr>
     <td align="center">
-      <img src="assets/css-3.png" height="55" />
+      <img src="assets/exploring/css-3.png" height="55" />
     </td>
     <td align="center"> CSS </td>
   </tr>
 </table>
+
+
 <table>
   <tr>
     <td align="center">
-      <img src="assets/davinci.png" height="55" />
+      <img src="assets/exploring/davinci.png" height="55" />
     </td>
     <td align="center"> Davinci Resolve 19 </td>
   </tr>
