@@ -61,7 +61,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     </td>
   </tr>
 </table>
-<br>
+<br> <br> <br>
 
 ---
 
