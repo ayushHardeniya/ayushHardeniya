@@ -46,6 +46,8 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     <td align="center"> Canva </td>
   </tr>
 </table>
+
+
 <table>
   <tr>
     <td align="center">
@@ -54,7 +56,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     <td align="center"> GitHub </td>
   </tr>
 </table>
-<table>
+<table align="left">
   <tr>
     <td align="center">
       <img src="assets/git-cli.png" height="55" />
@@ -78,8 +80,15 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     <td align="center"> CSS </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/davinci.png" height="55" />
+    </td>
+    <td align="center"> Davinci Resolve 19 </td>
+  </tr>
+</table>
 
-  
 ---
 
 ### 🛠️ Tech Stack
