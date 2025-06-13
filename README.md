@@ -86,6 +86,7 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
 
 ### 🤝 **Open Source** Welcome
 
+Hey there, curious mind! 👀<br>
 Spotted something on my website that needs fixing?<br>
 Perfect chance to practice your **open source** skills!<br>
 
@@ -168,7 +169,7 @@ New contributors welcome • **Good first issues available**
 
 ### 🤝 How You Can Add Value & Learn With Me!
 
-Hey there, curious mind! 👀  
+  
 If you ever spot an issue on my website - be it a weird layout glitch, a tiny design flaw, or just something that *feels off*...
 
 🎯 **Don't just scroll past - contribute!**  
