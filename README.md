@@ -95,6 +95,7 @@ Perfect chance to practice your **open source** skills!<br>
 New contributors welcome • **Good first issues available**
 
 ---
+<br>
 
 ### 📈 GitHub Stats
 
