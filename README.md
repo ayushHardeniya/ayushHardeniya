@@ -59,6 +59,12 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     <td align="center">
       <img src="assets/exploring/davinci.png" height="55" />
     </td>
+    <td align="center">
+      <img src="assets/exploring/personal-brand.png" height="55" />
+    </td>
+    <td align="center">
+      <img src="assets/exploring/domain-web.png" height="55" />
+    </td>
   </tr>
 </table>
 <br> <br> <br>
