@@ -69,6 +69,7 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
     </td>
   </tr>
 </table>
+
 <br> <br> <br>
 
 ---
