@@ -39,6 +39,7 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
 
 ### 🚀 What I’m On (Working/Exploring)
 
+<br>
 <table align="left">
   <tr>
     <td align="center">
@@ -70,7 +71,7 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
   </tr>
 </table>
 
-<br> <br> <br><br> <br> <br><br> <br> <br>
+<br> <br> <br><br> <br> <br>
 
 ---
 
