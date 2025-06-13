@@ -70,7 +70,7 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
   </tr>
 </table>
 
-<br> <br> <br>
+<br> <br> <br><br> <br> <br><br> <br> <br>
 
 ---
 
