@@ -54,6 +54,9 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
     <td align="center">
       <img src="assets/exploring/html-5.png" height="55" />
     </td>
+    <td align="center">
+      <img src="assets/exploring/LifeNotes.png" height="55" />
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -67,6 +70,9 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
     </td>
     <td align="center">
       <img src="assets/exploring/domain-web.png" height="55" />
+    </td>
+    <td align="center">
+      <img src="assets/exploring/CodeNotes.png" height="55" />
     </td>
   </tr>
 </table>
