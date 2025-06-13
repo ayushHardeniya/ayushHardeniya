@@ -37,19 +37,48 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 ---
 
-### 🚀 What I’m Currently Working On
-- My personal website: [ayushhardeniya.site](https://ayushhardeniya.site)
-- Sharpening my C++ fundamentals
-- Learning Git & GitHub for better project management
-- Preparing for open source contributions 🚀
-  
----
+### 🚀 What I’m On (Learning/Exploring)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/canva-logo.png" height="55" />
+    </td>
+    <td align="center"> Canva </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/github.png" height="55" />
+    </td>
+    <td align="center"> GitHub </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/git-cli.png" height="55" />
+    </td>
+    <td align="center"> Git Command Line </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/html-5.png" height="55" />
+    </td>
+    <td align="center"> HTML </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/css-3.png" height="55" />
+    </td>
+    <td align="center"> CSS </td>
+  </tr>
+</table>
 
-### 🧠 What I'm Learning/Exploring
-- Full-stack web dev (HTML, CSS, JS → MERN)
-- Video editing using DaVinci Resolve 19
-- Git Command-line + version control workflows
-- Building a consistent personal brand
   
 ---
 
