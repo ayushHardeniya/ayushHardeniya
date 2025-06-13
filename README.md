@@ -207,6 +207,11 @@ New contributors welcome • **Good first issues available**
 
 ---
 
+<picture>
+    <source srcset="assets/signblacktrans1.png" media="(prefers-color-scheme: dark)">
+    <source srcset="assets/signwhitetrans1.png" media="(prefers-color-scheme: light)">
+    <img src="assets/ReadmeBanner.gif" alt="Ayush Hardeniya Banner" style="width:100%; border-radius:10px;" />
+  </picture>
 <img src="assets/signwhitetrans1.png" align="right" alt="signature" height="100" style="margin-left: 50px"/>
 Thanks for stopping by! 👋  
 Feel free to check out my pinned projects/repo and connect if you think we can collaborate.
