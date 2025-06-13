@@ -33,7 +33,7 @@
 
 I'm _**Ayush Hardeniya**_ - someone who enjoys solving problems through code, **designing systems**, and giving a **creative** touch to whatever I build. 
 
-I'm currently **learning web development, hosting,** and **video editing,** while also staying grounded through music, meditation, and early mornings 🌄.
+I'm **learning web development, hosting,** and **video editing,** while also staying grounded through music, meditation, and early mornings 🌄.
 
 ---
 
