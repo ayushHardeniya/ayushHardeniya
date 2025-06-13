@@ -44,29 +44,18 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     <td align="center">
       <img src="assets/exploring/canva-logo.png" height="55" />
     </td>
-    <td>  
-    </td>
     <td align="center">
       <img src="assets/exploring/github.png" height="55" />
     </td>
-  </tr>
-  
-  <tr>
-    <td>  </td>
     <td align="center">
       <img src="assets/exploring/git-cli.png" height="55" />
     </td>
-    <td>  </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="assets/exploring/html-5.png" height="55" />
-  </tr>
-  <tr>
+    </td>
     <td align="center">
       <img src="assets/exploring/css-3.png" height="55" />
-  </tr>
-  <tr>
+    </td>
     <td align="center">
       <img src="assets/exploring/davinci.png" height="55" />
     </td>
