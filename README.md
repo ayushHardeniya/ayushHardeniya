@@ -86,7 +86,7 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
 
 ### 🤝 **Open Source** Welcome
 
-Hey there, curious mind! 👀<br>
+Hey there, **curious mind**! 👀<br><br>
 Spotted something on my website that needs fixing?<br>
 Perfect chance to practice your **open source** skills!<br>
 
