@@ -87,7 +87,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
   <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushHardeniya&theme=radical" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushHardeniya&theme=radical" height="100"/>
     </td>
   </tr>
 </table>
