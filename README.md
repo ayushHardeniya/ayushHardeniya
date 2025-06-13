@@ -44,9 +44,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
       <img src="assets/exploring/canva-logo.png" height="55" />
     </td>
   </tr>
-</table>
-
-
+</table><br>
 <table>
   <tr>
     <td align="center">
@@ -54,34 +52,33 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     </td>
   </tr>
 </table>
+<br>
 <table align="left">
   <tr>
     <td align="center">
       <img src="assets/exploring/git-cli.png" height="55" />
   </tr>
 </table>
-
-
+<br>
 <table>
   <tr>
     <td align="center">
       <img src="assets/exploring/html-5.png" height="55" />
   </tr>
 </table>
+<br>
 <table align="left">
   <tr>
     <td align="center">
       <img src="assets/exploring/css-3.png" height="55" />
   </tr>
 </table>
-
-
+<br>
 <table>
   <tr>
     <td align="center">
       <img src="assets/exploring/davinci.png" height="55" />
     </td>
-    <td align="center"> Davinci Resolve 19 </td>
   </tr>
 </table>
 
