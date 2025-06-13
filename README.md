@@ -55,7 +55,7 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
       <img src="assets/exploring/html-5.png" height="55" />
     </td>
     <td align="center">
-      <a href="https://medium.com/@ayushhardeniya>"<img src="assets/exploring/LifeNotes.png" height="55" /></a>
+      <a href="https://medium.com/@ayushhardeniya"><img src="assets/exploring/LifeNotes.png" height="55" /></a>
     </td>
   </tr>
   <tr>
