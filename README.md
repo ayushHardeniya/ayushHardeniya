@@ -52,7 +52,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     </td>
   </tr>
 </table>
-<br>
+
 <table align="left">
   <tr>
     <td align="center">
@@ -66,7 +66,7 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
       <img src="assets/exploring/html-5.png" height="55" />
   </tr>
 </table>
-<br>
+
 <table align="left">
   <tr>
     <td align="center">
