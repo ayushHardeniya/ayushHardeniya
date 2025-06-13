@@ -86,11 +86,12 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
 
 ### 🤝 Open Source Welcome
 
-Spotted something on my website that needs fixing?
-Perfect chance to practice your **open source** skills!
+Spotted something on my website that needs fixing?<br>
+Perfect chance to practice your **open source** skills!<br>
+
 [Click here to visit the website repo & start contributing! 🚀](https://github.com/ayushHardeniya/ayushhardeniya.github.io/tree/main)
-<br>
-New contributors welcome • Good first issues available
+<br><br>
+New contributors welcome • **Good first issues available**
 
 ---
 
