@@ -53,6 +53,8 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
     <td align="center">
       <img src="assets/exploring/html-5.png" height="55" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/exploring/css-3.png" height="55" />
     </td>
