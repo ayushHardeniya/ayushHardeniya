@@ -82,8 +82,10 @@ I'm currently **learning web development, hosting,** and **video editing,** whil
     <!--<td>
       <img src="https://github.com/ayushHardeniya/ayushhardeniya.github.io/graphs/contributors" alt="GitHub Streak" />
     </td> -->
+  </tr>
+  <tr>
     <td>
-      ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushHardeniya&theme=radical)
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushHardeniya&theme=radical" />
     </td>
   </tr>
 </table>
