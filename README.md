@@ -88,6 +88,12 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
 
 ---
 
+### 🎨 Creative Portfolio
+Check out my design & graphics-focused web project:  
+👉 [ayushhardeniya.framer.website](https://ayushhardeniya.framer.website)
+
+---
+
 ### 🛠️ Tech Stack
 
 | Language / Tools    | Skills |
