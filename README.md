@@ -14,10 +14,9 @@
 <!-- <h1 align="center">Hi, I'm <a href="https://ayushhardeniya.site/">Ayush Hardeniya</a> 👋</h1> -->
 <h2 align="center">[a.k.a Ayush Sharma]</h2><br>
 
+<img src="assets/scrollingeffect.gif" alt="Scrolling animation" width="80" align="right"/>
 <p align="center">
   🌱 Learner | 💻 Creator | 🎥 Editor |   ᝰ.ᐟ Writer
-<img src="assets/scrollingeffect.gif" alt="Scrolling animation" width="80" align="right"/>
-
 </p>
 <!--
 [![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/) -->
