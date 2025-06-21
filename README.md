@@ -171,7 +171,6 @@ New contributors welcome • **Good first issues available**
       </td>
     </tr>
   </table>
-  
   <table>
     <tr>
       <td align="center">
