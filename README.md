@@ -129,6 +129,9 @@ New contributors welcome • **Good first issues available**
     <td>
       <img src="https://herokuapp.com/?user=ayushhardeniya&theme=radical" alt="GitHub Streak Stats" />
     </td>-->
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&theme=radical" />
+    </td>
     <!--<td>
       <img src="https://github.com/ayushHardeniya/ayushhardeniya.github.io/graphs/contributors" alt="GitHub Streak" />
     </td>-->
