@@ -123,20 +123,21 @@ New contributors welcome • **Good first issues available**
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&theme=radical" />
+    </td>
+  </tr>
+</table>
     <!--<td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
     <td>
       <img src="https://herokuapp.com/?user=ayushhardeniya&theme=radical" alt="GitHub Streak Stats" />
     </td>-->
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhardeniya&theme=radical" />
-    </td>
     <!--<td>
       <img src="https://github.com/ayushHardeniya/ayushhardeniya.github.io/graphs/contributors" alt="GitHub Streak" />
     </td>-->
-  </tr>
-  </table>
+  
 
 ---
 
