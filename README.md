@@ -19,9 +19,7 @@
 [![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/) -->
 
 <!--[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)-->
- 🔗 **Visit My Website**: [ayushHardeniya.site](https://ayushhardeniya.site) 
-![Profile views](https://komarev.com/ghpvc/?username=ayushhardeniya&label=Profile%20Views&color=0e75b6&style=flat)
-
+ 🔗 **Visit My Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 
 ---
 
