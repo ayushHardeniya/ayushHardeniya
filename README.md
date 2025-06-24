@@ -175,6 +175,11 @@ New contributors welcome • **Good first issues available**
   <table>
     <tr>
       <td align="center">
+        <a href="https://instagram.com/ayush.hardeniya">
+          <img src="assets/instagram.png" alt="Instagram" height="75">
+        </a>
+      </td>
+      <td align="center">
         <a href="https://blog.ayushhardeniya.site">
           <img src="assets/CodeNotes.png" alt="CodeNotes" height="65">
         </a>
