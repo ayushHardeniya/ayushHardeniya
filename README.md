@@ -132,6 +132,8 @@ New contributors welcome • **Good first issues available**
     </td>
   </tr>
 </table>
+
+[![GitHub Streak](https://streak-stats.devayan.in?user=ayushhardeniya&theme=radical)](https://github.com/ayushhardeniya)
     <!--<td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhardeniya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
