@@ -15,7 +15,7 @@
 <h2 align="center">[a.k.a Ayush Sharma]</h2><br>
 
 <p align="center" style="line-height: 1; padding: 0; margin: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Engineering+Student+%7C+Web+Explorer;Crafting+code+with+clarity;Designing+with+intention;Let's+learn%2C+build%2C+and+grow+together+%F0%9F%9A%80" alt="Typing SVG" style="margin: 10px 0;" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Engineering+Student+%7C+Web+Explorer;Crafting+code+with+clarity;Designing+with+intention;Let's+learn%2C+build%2C+and+grow+together+%F0%9F%9A%80" alt="Typing SVG" style="display: block; margin: 0 auto; padding: 0;" >
 </p>
 
 <img src="assets/scrollingeffect.gif" alt="Scrolling animation" width="80" align="right"/>
