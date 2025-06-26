@@ -14,6 +14,10 @@
 <!-- <h1 align="center">Hi, I'm <a href="https://ayushhardeniya.site/">Ayush Hardeniya</a> 👋</h1> -->
 <h2 align="center">[a.k.a Ayush Sharma]</h2><br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Ayush+Hardeniya;Engineering+Student+%7C+Web+Explorer;Crafting+code+with+clarity+%26+design+with+intention;Let's+learn%2C+build%2C+and+grow+together+%F0%9F%9A%80" alt="Typing SVG">
+</p>
+
 <img src="assets/scrollingeffect.gif" alt="Scrolling animation" width="80" align="right"/>
 <!--
 [![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/) -->
