@@ -103,7 +103,7 @@ Check out my design & graphics-focused web project:
 | `HTML + CSS`        | 🌐 Static pages, layouts |
 | `VS Code`           | 📝 Main code editor |
 | `Git & GitHub`      | 🔧 Version control, 🤝collaboration |
-| `Canva`             | 🎨 Design & Editing |
+| `Canva & Framer`    | 🎨 Design & Editing |
 | `DaVinci Resolve 19`| 🎞️ Video Editing |
 
 ---
