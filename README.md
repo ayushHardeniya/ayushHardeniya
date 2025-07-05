@@ -128,7 +128,7 @@ New contributors welcome • **Good first issues available**
   </tr>
 </table>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushhardeniya&theme=react-dark)
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushhardeniya&theme=react-dark) -->
 
 ---
 
