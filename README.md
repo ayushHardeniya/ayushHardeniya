@@ -123,10 +123,10 @@ New contributors welcome • **Good first issues available**
 <table align="center">
   <tr>  
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=default" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=Tokyo Night" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=ayushhardeniya&theme=default&hide_border=true" alt="Streak Stats" />
+      <img src="https://streak-stats.demolab.com?user=ayushhardeniya&theme=Tokyo Night&hide_border=true" alt="Streak Stats" />
     </td>
   </tr>
 </table>
