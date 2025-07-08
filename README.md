@@ -185,13 +185,6 @@ New contributors welcome • **Good first issues available**
 
 ---
 
-### 🤍 Personal Mantras
-
-> *Consistency beats talent when talent doesn’t show up.*  
-> *Wake up early, stay humble, work on your craft silently.*
-
----
-
 ### 💰Fuel My Work
   [![❤️ GitHub](https://img.shields.io/badge/GitHub%20Sponsor-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushhardeniya)
