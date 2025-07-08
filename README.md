@@ -125,6 +125,9 @@ New contributors welcome • **Good first issues available**
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
+    <td>
+      ![GitHub Stats](https://streak-stats.demolab.com?user=ayushhardeniya&theme=default&hide_border=true)
+    </td>
   </tr>
 </table>
 
