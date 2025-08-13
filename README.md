@@ -9,123 +9,7 @@
     <img src="assets/ReadmeBanner.gif" alt="Ayush Hardeniya Banner" style="width:100%; border-radius:10px;" />
   </picture>
 
-<!-- <h1 align="center">Hi, I'm <a href="https://ayushhardeniya.site/">Ayush Hardeniya</a> 👋</h1> 
-<h2 align="center">[a.k.a Ayush Sharma]</h2><br>
-
-<p align="center" style="line-height: 1; padding: 0; margin: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Engineering+Student+%7C+Web+Explorer;Crafting+code+with+clarity;Designing+with+intention;Let's+learn%2C+build%2C+and+grow+together+%F0%9F%9A%80" alt="Typing SVG" style="display: block; margin: 0 auto; padding: 0;" >
-</p>
-
-<img src="assets/scrollingeffect.gif" alt="Scrolling animation" width="80" align="right"/>
-<!--
-[![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/) -->
-
-<!--[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
- 🔗 **Visit My Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
-
----
-
-### 👨‍💻 About Me
-
-<!--<img src="/assets/PortraitaH.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />-
-
-I'm _**Ayush Hardeniya**_ - someone who enjoys solving problems through code, **designing systems**, and giving a **creative** touch to whatever I build. 
-
-I'm **learning web development, hosting,** and **video editing,** while also staying grounded through music, meditation, and early mornings 🌄.
-
----
-
-### 🚀 What I’m On (Working/Exploring)
-
-<br>
-<table align="left">
-  <tr>
-    <td align="center">
-      <img src="assets/exploring/canva-logo.png" height="55" />
-    </td>
-    <td align="center">
-      <img src="assets/exploring/github.png" height="55" />
-    </td>
-    <td align="center">
-      <img src="assets/exploring/git-cli.png" height="55" />
-    </td>
-    <td align="center">
-      <img src="assets/exploring/html-5.png" height="55" />
-    </td>
-    <td align="center">
-      <img src="assets/exploring/css-3.png" height="55" />
-    </td>
-    <!--
-    <td align="center">
-      <a href="https://medium.com/@ayushhardeniya"><img src="assets/exploring/LifeNotes.png" height="55" /></a>
-    </td> -
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/exploring/davinci.png" height="55" />
-    </td>
-    <td align="center">
-      <img src="assets/exploring/personal-brand.png" height="55" />
-    </td>
-    <td align="center">
-      <img src="assets/exploring/domain-web.png" height="55" />
-    </td>
-      <td align="center">
-      <img src="assets/exploring/reading.png" height="55" />
-    </td>
-    <td align="center">
-      <img src="assets/exploring/love.png" height="55" />
-    </td>
-    <!--
-    <td align="center">
-      <a href="https://blog.ayushhardeniya.site"><img src="assets/exploring/CodeNotes.png" height="55" /></a>
-    </td> -
-  </tr>
-</table>
-
-<br> <br> <br> <br> <br> <br> <br>
-
----
-
-### 🎨 Creative Portfolio
-Check out my design & graphics-focused web project:  
-👉 [ayushhardeniya.framer.website](https://ayushhardeniya.framer.website)
-
-const techStack = {
-  languages: ["C", "C++", "HTML", "CSS", "JavaScript"],
-  tools: ["VS Code", "Git", "GitHub", "DaVinci Resolve"],
-  design: ["Canva", "Framer"],
-  focus: ["Web Development", "System Design", "Open Source"]
-};
-
----
-
-### 🛠️ Tech Stack
-
-| Language / Tools    | Skills |
-|---------------------|--------|
-| `C & C++`           | 🧠 Logic building |
-| `HTML + CSS`        | 🌐 Static pages, layouts |
-| `VS Code`           | 📝 Main code editor |
-| `Git & GitHub`      | 🔧 Version control, 🤝collaboration |
-| `Canva & Framer`    | 🎨 Design & Editing |
-| `DaVinci Resolve 19`| 🎞️ Video Editing |
-
----
-
-### 🤝 "Open Source" Welcome
-
-Hey there, **curious mind**! 👀<br><br>
-Spotted something on my website that needs fixing?<br>
-**Perfect chance to practice your **open source** skills!** <br>
-
-[Click here to visit the website repo & start contributing! 🚀](https://github.com/ayushHardeniya/ayushhardeniya.github.io/tree/main)
-<br><br>
-New contributors welcome • **Good first issues available**
-
--->
-
-**# 👋 Hey, I’m Ayush Hardeniya
+# 👋 Hey, I’m Ayush Hardeniya
 
 💻 Developer • 🎨 Designer • 🎬 Creator  
 🌄 Early riser | 🎵 Music lover | 🧘 Meditation enthusiast  
@@ -133,29 +17,40 @@ New contributors welcome • **Good first issues available**
 ---
 
 ## 🚀 Currently
-- Web Development (HTML, CSS, JS)  
-- System Design & Open Source  
-- Video Editing & UI/UX Design  
+- Building **Web Apps** (HTML, CSS, JS)  
+- Exploring **System Design & Open Source**  
+- Working on **Video Editing & UI/UX Design**
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** C · C++ · HTML · CSS · JavaScript  
-**Tools:** VS Code · Git · GitHub · DaVinci Resolve  
-**Design:** Canva · Framer  
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
-## 🌐 Portfolio
-- [Personal Website](https://ayushHardeniya.site)  
-- [Creative Projects](https://ayushhardeniya.framer.website)  
+## 🌐 Portfolio & Links
+
+[![Website](https://img.shields.io/badge/Personal%20Site-AYUSHHARDENIYA.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushHardeniya.site)  
+[![Portfolio](https://img.shields.io/badge/Creative%20Projects-Framer-purple?style=for-the-badge&logo=framer&logoColor=white)](https://ayushhardeniya.framer.website)  
+[![GitHub Repo](https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo)
 
 ---
 
 ## 🤝 Open Source
 💡 Good first issues available  
-🔗 [Contribute Here](https://github.com/your-repo)
-**
+✨ Contributions welcome
 
 ---
 
