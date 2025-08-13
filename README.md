@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-<img src="/assets/PortraitaH.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
+<!--<img src="/assets/PortraitaH.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />-->
 
 I'm _**Ayush Hardeniya**_ - someone who enjoys solving problems through code, **designing systems**, and giving a **creative** touch to whatever I build. 
 
