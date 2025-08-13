@@ -9,10 +9,10 @@
     <img src="assets/ReadmeBanner.gif" alt="Ayush Hardeniya Banner" style="width:100%; border-radius:10px;" />
   </picture>
 
-# 👋 Hey, I’m Ayush Hardeniya
-
-💻 Developer • 🎨 Designer • 🎬 Creator  
-🌄 Early riser | 🎵 Music lover | 🧘 Meditation enthusiast  
+<center>
+  <p> a.k.a <B>Ayush Sharma</B></p>
+  💻 Developer • 🎨 Designer • 🎬 Creator  
+</center>
 
 ---
 
@@ -40,10 +40,10 @@
 
 ---
 
-## 🌐 Portfolio & Links
+## 🌐 What I'm on!
 
 [![Website](https://img.shields.io/badge/Personal%20Site-AYUSHHARDENIYA.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushHardeniya.site)  
-[![Portfolio](https://img.shields.io/badge/Creative%20Projects-Framer-purple?style=for-the-badge&logo=framer&logoColor=white)](https://ayushhardeniya.framer.website)  
+[![Portfolio](https://img.shields.io/badge/Creative%20Project-Framer-purple?style=for-the-badge&logo=framer&logoColor=white)](https://ayushhardeniya.framer.website)  
 [![GitHub Repo](https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo)
 
 ---
