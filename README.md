@@ -91,6 +91,13 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
 Check out my design & graphics-focused web project:  
 👉 [ayushhardeniya.framer.website](https://ayushhardeniya.framer.website)
 
+const techStack = {
+  languages: ["C", "C++", "HTML", "CSS", "JavaScript"],
+  tools: ["VS Code", "Git", "GitHub", "DaVinci Resolve"],
+  design: ["Canva", "Framer"],
+  focus: ["Web Development", "System Design", "Open Source"]
+};
+
 ---
 
 ### 🛠️ Tech Stack
