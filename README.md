@@ -9,7 +9,7 @@
     <img src="assets/ReadmeBanner.gif" alt="Ayush Hardeniya Banner" style="width:100%; border-radius:10px;" />
   </picture>
 
-<!-- <h1 align="center">Hi, I'm <a href="https://ayushhardeniya.site/">Ayush Hardeniya</a> 👋</h1> -->
+<!-- <h1 align="center">Hi, I'm <a href="https://ayushhardeniya.site/">Ayush Hardeniya</a> 👋</h1> 
 <h2 align="center">[a.k.a Ayush Sharma]</h2><br>
 
 <p align="center" style="line-height: 1; padding: 0; margin: 0;">
@@ -20,14 +20,14 @@
 <!--
 [![❤️ Sponsor Me](https://img.shields.io/badge/%20Sponsor%20Me-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://ayushhardeniya.github.io/aHPay/) -->
 
-<!--[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)-->
+<!--[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
  🔗 **Visit My Website**: [ayushHardeniya.site](https://ayushhardeniya.site)
 
 ---
 
 ### 👨‍💻 About Me
 
-<!--<img src="/assets/PortraitaH.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />-->
+<!--<img src="/assets/PortraitaH.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />-
 
 I'm _**Ayush Hardeniya**_ - someone who enjoys solving problems through code, **designing systems**, and giving a **creative** touch to whatever I build. 
 
@@ -58,7 +58,7 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
     <!--
     <td align="center">
       <a href="https://medium.com/@ayushhardeniya"><img src="assets/exploring/LifeNotes.png" height="55" /></a>
-    </td> -->
+    </td> -
   </tr>
   <tr>
     <td align="center">
@@ -79,7 +79,7 @@ I'm **learning web development, hosting,** and **video editing,** while also sta
     <!--
     <td align="center">
       <a href="https://blog.ayushhardeniya.site"><img src="assets/exploring/CodeNotes.png" height="55" /></a>
-    </td> -->
+    </td> -
   </tr>
 </table>
 
@@ -122,6 +122,40 @@ Spotted something on my website that needs fixing?<br>
 [Click here to visit the website repo & start contributing! 🚀](https://github.com/ayushHardeniya/ayushhardeniya.github.io/tree/main)
 <br><br>
 New contributors welcome • **Good first issues available**
+
+-->
+
+**# 👋 Hey, I’m Ayush Hardeniya
+
+💻 Developer • 🎨 Designer • 🎬 Creator  
+🌄 Early riser | 🎵 Music lover | 🧘 Meditation enthusiast  
+
+---
+
+## 🚀 Currently
+- Web Development (HTML, CSS, JS)  
+- System Design & Open Source  
+- Video Editing & UI/UX Design  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** C · C++ · HTML · CSS · JavaScript  
+**Tools:** VS Code · Git · GitHub · DaVinci Resolve  
+**Design:** Canva · Framer  
+
+---
+
+## 🌐 Portfolio
+- [Personal Website](https://ayushHardeniya.site)  
+- [Creative Projects](https://ayushhardeniya.framer.website)  
+
+---
+
+## 🤝 Open Source
+💡 Good first issues available  
+🔗 [Contribute Here](https://github.com/your-repo)
+**
 
 ---
 
