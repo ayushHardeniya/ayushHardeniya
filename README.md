@@ -46,6 +46,7 @@
 [![Website](https://img.shields.io/badge/Personal%20Site-AYUSHHARDENIYA.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushHardeniya.site)  
 [![Portfolio](https://img.shields.io/badge/Creative%20Project-Framer-purple?style=for-the-badge&logo=framer&logoColor=white)](https://ayushhardeniya.framer.website)  
 [![GitHub Repo](https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushHardeniya/ayushhardeniya.github.io)
+
 [![ZenYukti](https://img.shields.io/badge/Founder%20&%20Executive%20Head-ZenYukti%20Community-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zenyukti.github.io)
 
 ---
