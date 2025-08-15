@@ -51,7 +51,7 @@
 
 ---
 
-## 🤝 Open Source
+## 🤝 Open Source Welcome
 💡 Good first issues available  
 ✨ Contributions welcome
 
