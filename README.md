@@ -51,14 +51,6 @@
 
 ---
 
-## 🤝 Open Source Welcome
-💡 Good first issues available  
-✨ Contributions welcome
-
-[![GitHub Repo](https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushHardeniya/ayushhardeniya.github.io)
-
----
-
 ### 📈 GitHub Stats
 
 <table align="center">
