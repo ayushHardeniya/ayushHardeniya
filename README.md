@@ -44,6 +44,10 @@
 ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
+## Hacktoberfest 2025
+[![An image of @ayushhardeniya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushhardeniya)](https://holopin.io/@ayushhardeniya)
+
+---
 
 ## 🌐 What I'm on!
 
