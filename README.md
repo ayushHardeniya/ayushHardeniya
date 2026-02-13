@@ -13,18 +13,18 @@
 
 ## a.k.a Ayush Sharma
 
-  💻 Developer • 🎨 Designer • 🎬 Creator  
+  Developer • Designer • Creator  
 
 ---
 
-## 🚀 Currently
+## Currently
 - Building **Web Apps** (HTML, CSS, JS)  
 - Exploring **System Design & Open Source**  
 - Working on **Video Editing & UI/UX Design**
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -44,12 +44,12 @@
 ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
-## Hacktoberfest 2025
+## [Hacktoberfest 2025](https://www.holopin.io/@ayushhardeniya#badges)
 [![An image of @ayushhardeniya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushhardeniya)](https://holopin.io/@ayushhardeniya)
 
 ---
 
-## 🌐 What I'm on!
+## What I'm on!
 
 [![Website](https://img.shields.io/badge/Personal%20Site-AYUSHHARDENIYA.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushHardeniya.site)  
 [![Portfolio](https://img.shields.io/badge/Creative%20Project-Framer-purple?style=for-the-badge&logo=framer&logoColor=white)](https://ayushhardeniya.framer.website)  
@@ -59,7 +59,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <table align="center">
   <tr>  
@@ -74,7 +74,7 @@
 
 ---
 
-### 🌐 Where I Share & Create 
+### Where I Share & Create 
 
 <img src="/assets/illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
 
@@ -85,22 +85,22 @@
     <tr>
       <td align="center">
         <a href="https://ayushhardeniya.site">
-          <img src="assets/aH-logo.png" alt="Website" height="75">
+          <img src="assets/aH-logo.png" alt="Website" height="45">
         </a>
       </td>
       <td align="center">
         <a href="https://linkedin.com/in/ayushhardeniya">
-          <img src="assets/linkedin.png" alt="LinkedIn" height="75">
+          <img src="assets/linkedin.png" alt="LinkedIn" height="45">
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/ayushhardeniya">
-          <img src="assets/twitter1.png" alt="Twitter" height="75">
+          <img src="assets/twitter1.png" alt="Twitter" height="45">
         </a>
       </td>
       <td align="center">
         <a href="https://medium.com/@ayushhardeniya">
-          <img src="assets/medium-M.png" alt="Medium" height="75">
+          <img src="assets/medium-M.png" alt="Medium" height="45">
         </a>
       </td>
     </tr>
@@ -109,17 +109,17 @@
     <tr>
       <td align="center">
         <a href="https://instagram.com/ayush.hardeniya">
-          <img src="assets/instagram.png" alt="Instagram" height="75">
+          <img src="assets/instagram.png" alt="Instagram" height="45">
         </a>
       </td>
       <td align="center">
         <a href="https://blog.ayushhardeniya.site">
-          <img src="assets/CodeNotes.png" alt="CodeNotes" height="65">
+          <img src="assets/CodeNotes.png" alt="CodeNotes" height="35">
         </a>
       </td>
       <td align="center">
         <a href="mailto:connect@ayushhardeniya.site">
-          <img src="assets/gmail.png" alt="Email" height="75">
+          <img src="assets/gmail.png" alt="Email" height="45">
         </a>
       </td>
     </tr>
@@ -129,7 +129,7 @@
 
 ---
 
-### 💰Fuel My Work
+### Fuel My Work
   [![❤️ GitHub](https://img.shields.io/badge/GitHub%20Sponsor-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushhardeniya)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
@@ -138,7 +138,7 @@
 ### Or Just
 
 <a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
-  <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:65px;" align="center"/>
+  <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:55px;" align="center"/>
 </a>
 
 ---
