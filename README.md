@@ -51,8 +51,8 @@
 
 ## What I'm on!
 
-[![Website](https://img.shields.io/badge/Personal%20Site-AYUSHHARDENIYA.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushHardeniya.site)  
-[![Portfolio](https://img.shields.io/badge/Creative%20Project-Framer-purple?style=for-the-badge&logo=framer&logoColor=white)](https://ayushhardeniya.framer.website)  
+[![Webme](https://img.shields.io/badge/Personal%20me-AYUSHHARDENIYA.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushHardeniya.me)  
+[![Portfolio](https://img.shields.io/badge/Creative%20Project-Framer-purple?style=for-the-badge&logo=framer&logoColor=white)](https://ayushhardeniya.framer.webme)  
 [![GitHub Repo](https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushHardeniya/ayushhardeniya.github.io)
 
 [![ZenYukti](https://img.shields.io/badge/Founder%20&%20Executive%20Head-ZenYukti%20Community-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zenyukti.in)
@@ -84,8 +84,8 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://ayushhardeniya.site">
-          <img src="assets/aH-logo.png" alt="Website" height="45">
+        <a href="https://ayushhardeniya.me">
+          <img src="assets/aH-logo.png" alt="Webme" height="45">
         </a>
       </td>
       <td align="center">
@@ -113,12 +113,12 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://blog.ayushhardeniya.site">
+        <a href="https://blog.ayushhardeniya.me">
           <img src="assets/CodeNotes.png" alt="CodeNotes" height="35">
         </a>
       </td>
       <td align="center">
-        <a href="mailto:connect@ayushhardeniya.site">
+        <a href="mailto:ayushhardeniya@hotmail.com">
           <img src="assets/gmail.png" alt="Email" height="45">
         </a>
       </td>
