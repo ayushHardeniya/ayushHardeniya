@@ -1,151 +1,112 @@
-<html>
-  <head>
-  </head>
-    <body>
+<picture>
+  <source srcset="assets/ReadmeBanner-dark.gif" media="(prefers-color-scheme: dark)">
+  <source srcset="assets/ReadmeBanner-bright.gif" media="(prefers-color-scheme: light)">
+  <img src="assets/ReadmeBanner.gif" alt="Ayush Hardeniya Banner" style="width:100%; border-radius:10px;" />
+</picture>
 
-  <picture>
-    <source srcset="assets/ReadmeBanner-dark.gif" media="(prefers-color-scheme: dark)">
-    <source srcset="assets/ReadmeBanner-bright.gif" media="(prefers-color-scheme: light)">
-    <img src="assets/ReadmeBanner.gif" alt="Ayush Hardeniya Banner" style="width:100%; border-radius:10px;" />
-  </picture>
+### a.k.a Ayush Sharma
 
----
+Computer Science undergraduate exploring **Backend Engineering**, **Distributed Systems**, and **Open-Source Software**.
 
-## a.k.a Ayush Sharma
+Lately, I've been spending most of my time around open source, contributing to **Debian's Debusine platform** and the **Jenkins ecosystem**, while learning how large software systems are designed, reviewed, maintained, and evolved over time.
 
-  Developer • Designer • Creator  
+My interests currently revolve around **backend architecture**, **workflow orchestration**, **developer infrastructure**, **reliability engineering**, and the engineering practices that enable large projects to scale across contributors and environments.
 
----
-
-## Currently
-- Building **Web Apps** (HTML, CSS, JS)  
-- Exploring **System Design & Open Source**  
-- Working on **Video Editing & UI/UX Design**
+Outside of open source, I enjoy exploring system design, building side projects, solving DSA problems, and occasionally writing [technical notes](https://blog.ayushhardeniya.me/) on things I learn along the way while sharing my journey on [X](https://x.com/ayushHardeniya).
 
 ---
 
-## Tech Stack
+## Open Source
 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Debian (Debusine)
+
+I've contributed **13 merged Merge Requests** to [Debusine](https://salsa.debian.org/freexian-team/debusine), Debian's distributed workflow orchestration and package management platform.
+
+My work has primarily been around reliability, workflow execution, validation systems, security controls, and developer-facing improvements.
+
+Some contributions include:
+
+* **[MR !3115](https://salsa.debian.org/freexian-team/debusine/-/merge_requests/3115)** - Worker-token access restrictions and security controls.
+* **[MR !2728](https://salsa.debian.org/freexian-team/debusine/-/merge_requests/2728)** - HTTP timeout enforcement for external requests.
+* **[MR !2667](https://salsa.debian.org/freexian-team/debusine/-/merge_requests/2667)** - Workflow orchestration visibility improvements.
+* **[MR !2773](https://salsa.debian.org/freexian-team/debusine/-/merge_requests/2773)** - LocalArtifact validation for API artifact creation workflows.
+
+Along the way, I've also worked on artifact validation, access-control mechanisms, package download workflows, timeout handling, workflow UX improvements, and platform maintenance tasks.
+
+→ **Debusine Contributions:** [Debusine | Merge Requests | ayushHardeniya](https://salsa.debian.org/freexian-team/debusine/-/merge_requests/?sort=created_date&state=all&author_username=ayushHardeniya&first_page_size=100)
+
+### Jenkins
+
+I've contributed **17 merged Pull Requests** to the Jenkins ecosystem through **[jenkins.io](https://github.com/jenkins-infra/jenkins.io/)**, the project's official documentation and contributor platform.
+
+My contributions focused on improving developer-facing documentation, contributor onboarding, testing guidance, build tooling references, IDE configuration guides, and Java migration documentation.
+
+Contributions include:
+
+* **[PR #8788](https://github.com/jenkins-infra/jenkins.io/pull/8788)** - Java 21 migration guidance for contributors.
+* **[PR #8792](https://github.com/jenkins-infra/jenkins.io/pull/8792)** - Jenkins BOM usage for Pipeline testing workflows.
+* **[PR #9076](https://github.com/jenkins-infra/jenkins.io/pull/9076)** - Testing strategy guidance for contributors.
+
+→ **Jenkins Contributions:** [Jenkins.io | Pull Requests | ayushHardeniya](https://github.com/jenkins-infra/jenkins.io/pulls?q=is%3Apr+author%3AayushHardeniya)
+
+### Other Contributions
+
+Additional contributions and explorations:
+
+- **OpenEverest** : [PR #2196](https://github.com/openeverest/openeverest/pull/2196) (commands: fix namespaces command description)
+- **Everest Docs** : [PR #358](https://github.com/openeverest/everest-doc/pull/358) (add troubleshooting for kind setup installation timing)
+- **Meshery** : Currently Exploring Meshery & Cloud-Native Ecosystem
+- **Hyperledger Fabric Samples**: [PR #1412](https://github.com/hyperledger/fabric-samples/pull/1412) (fix(test-network): use CLI_DELAY fallback in ccutils.sh retry loops)
+- **Git** : Built [Git](https://github.com/gitgitgadget/git/) successfully on my local machine and created a minor contribution with [PR #2039](https://github.com/gitgitgadget/git/pull/2039)
+
+---
+
+## Technologies & Tools
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-red?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
----
-## [Hacktoberfest 2025](https://www.holopin.io/@ayushhardeniya#badges)
-[![An image of @ayushhardeniya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushhardeniya)](https://holopin.io/@ayushhardeniya)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## What I'm on!
+## Open Source Highlights
 
-[![Webme](https://img.shields.io/badge/Personal%20me-AYUSHHARDENIYA.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushHardeniya.me)  
-[![Portfolio](https://img.shields.io/badge/Creative%20Project-Framer-purple?style=for-the-badge&logo=framer&logoColor=white)](https://ayushhardeniya.framer.webme)  
-[![GitHub Repo](https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushHardeniya/ayushhardeniya.github.io)
-
-[![ZenYukti](https://img.shields.io/badge/Founder%20&%20Executive%20Head-ZenYukti%20Community-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zenyukti.in)
-
----
-
-### GitHub Stats
-
-<table align="center">
-  <tr>  
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ayushhardeniya&show_icons=true&theme=buefy" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=ayushhardeniya&theme=buefy&hide_border=true" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
+- Debian Contributor (13 Merged Merge Requests)
+- Jenkins Contributor (17 Merged Pull Requests)
+- Hacktoberfest 2025 Supercontributor ([View Badges](https://holopin.io/@ayushhardeniya))
+- Linux Foundation LFC102 Certified ([Certificate](https://drive.google.com/file/d/17mI0S_fNAaeJcYJOSQ7-gZ6JeILLGEgI/view?usp=sharing))
+- National [2nd Runner-Up](https://drive.google.com/file/d/1SaM3AjB2lYWHcCbgKV-kq30lOSUTAoRx/view?usp=sharing) - IIT Bombay i-HACK (GitLab CodeForge Track)
 
 ---
 
-### Where I Share & Create 
+## GitHub Stats
 
-<img src="/assets/illustration.png" width="300" align="right" style="margin-left: 15px; margin-bottom: 15px;" />
-
-[**Find Me Online!**]
-<br>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://ayushhardeniya.me">
-          <img src="assets/aH-logo.png" alt="Webme" height="45">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/ayushhardeniya">
-          <img src="assets/linkedin.png" alt="LinkedIn" height="45">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/ayushhardeniya">
-          <img src="assets/twitter1.png" alt="Twitter" height="45">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://medium.com/@ayushhardeniya">
-          <img src="assets/medium-M.png" alt="Medium" height="45">
-        </a>
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://instagram.com/ayush.hardeniya">
-          <img src="assets/instagram.png" alt="Instagram" height="45">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://blog.ayushhardeniya.me">
-          <img src="assets/CodeNotes.png" alt="CodeNotes" height="35">
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:ayushhardeniya@hotmail.com">
-          <img src="assets/gmail.png" alt="Email" height="45">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
- <!-- <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height:65px;" /> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushHardeniya&theme=outrun&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### Fuel My Work
-  [![❤️ GitHub](https://img.shields.io/badge/GitHub%20Sponsor-darkgreen?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ayushhardeniya)
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushhardeniya)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushhardeniya)
-  [![aHPay](https://img.shields.io/badge/aHPay-blue?style=for-the-badge&logo=googlepay&logoColor=white)](https://ayushhardeniya.github.io/aHPay/)
+## Connect
 
-### Or Just
-
-<a href="https://ko-fi.com/ayushhardeniya" target="_blank" style="display:inline-block;">
-  <img src="./assets/BuyMeACoffee.jpg" alt="Ko-Fi" style="height:55px;" align="center"/>
-</a>
+[Website](https://ayushhardeniya.me) •
+[LinkedIn](https://linkedin.com/in/ayushhardeniya) •
+[X](https://x.com/ayushHardeniya) •
+[Email](mailto:ayushhardeniya@hotmail.com)
 
 ---
 
-Thanks for stopping by! 👋  
-Feel free to check out my pinned projects/repo and connect if you think we can collaborate.
-<img src="assets/signwhitetrans1.png" align="right" alt="signature" height="100" style="margin-left: 50px"/>
-  
-</body>
-</html>
+<picture>
+  <source srcset="assets/signblacktrans1.png" media="(prefers-color-scheme: light)">
+  <source srcset="assets/signwhitetrans1.png" media="(prefers-color-scheme: dark)">
+  <img src="assets/signwhitetrans1.png" alt="Ayush Hardeniya Signature" align="right" height="90" />
+</picture>
