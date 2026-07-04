@@ -20,7 +20,7 @@ Outside of open source, I enjoy exploring system design, building side projects,
 
 ### Debian (Debusine)
 
-I've contributed **13 merged Merge Requests** to [Debusine](https://salsa.debian.org/freexian-team/debusine), Debian's distributed workflow orchestration and package management platform.
+I've contributed **18 merged Merge Requests** to [Debusine](https://salsa.debian.org/freexian-team/debusine), Debian's distributed workflow orchestration and package management platform.
 
 My work has primarily been around reliability, workflow execution, validation systems, security controls, and developer-facing improvements.
 
@@ -80,7 +80,7 @@ Additional contributions and explorations:
 
 ## Open Source Highlights
 
-- Debian Contributor (13 Merged Merge Requests)
+- Debian Contributor (18 Merged Merge Requests)
 - Jenkins Contributor (17 Merged Pull Requests)
 - Hacktoberfest 2025 Supercontributor ([View Badges](https://holopin.io/@ayushhardeniya))
 - Linux Foundation LFC102 Certified ([Certificate](https://drive.google.com/file/d/17mI0S_fNAaeJcYJOSQ7-gZ6JeILLGEgI/view?usp=sharing))
