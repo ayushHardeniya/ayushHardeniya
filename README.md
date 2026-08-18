@@ -1,4 +1,4 @@
-<a href="https://ayushhardeniya.me">Website</a> · <a href="https://linkedin.com/in/ayushhardeniya">LinkedIn</a> · <a href="https://x.com/ayushHardeniya">X</a>
+<a href="https://ayushhardeniya.me">Website</a> · <a href="https://linkedin.com/in/ayushhardeniya">LinkedIn</a> · <a href="https://x.com/ayushHardeniya">X</a> · <a href="mailto:ayushhardeniya@hotmail.com">Email</a>
 
 I'm a backend and systems engineer interested in reliable software, infrastructure and open source.
 
@@ -25,10 +25,10 @@ A few contributions:
 
 [OpenEverest #2196](https://github.com/openeverest/openeverest/pull/2196) · [Everest Docs #358](https://github.com/openeverest/everest-doc/pull/358) · [Hyperledger Fabric #1412](https://github.com/hyperledger/fabric-samples/pull/1412) · [Git #2039](https://github.com/gitgitgadget/git/pull/2039) · Meshery
 
-Currently working more with **Go, Linux, distributed systems and backend infrastructure**.
+Currently working with **Go, Linux, distributed systems and backend infrastructure**.
 
 I like understanding how things work before adding more technology.
 
 ---
 
-[GitHub](https://github.com/ayushHardeniya) · [Salsa](https://salsa.debian.org/ayushhardeniya) | [Debusine](https://salsa.debian.org/freexian-team/debusine/-/merge_requests/?sort=created_date&state=all&author_username=ayushHardeniya) · [Jenkins](https://github.com/jenkins-infra/jenkins.io/pulls?q=is%3Apr+author%3AayushHardeniya)
+[Salsa](https://salsa.debian.org/ayushhardeniya) | [Debusine](https://salsa.debian.org/freexian-team/debusine/-/merge_requests/?sort=created_date&state=all&author_username=ayushHardeniya) · [Jenkins](https://github.com/jenkins-infra/jenkins.io/pulls?q=is%3Apr+author%3AayushHardeniya)
