@@ -1,4 +1,4 @@
-> write to me at [ayushhardeniya@hotmail.com](mailto:ayushhardeniya@hotmail.com) - I read every note.
+> write to me at [ayush@ayushhardeniya.me](mailto:ayush@ayushhardeniya.me) - I read every note.
 
 hi, I'm a backend and systems engineer interested in reliable software, infrastructure and open source.
 
